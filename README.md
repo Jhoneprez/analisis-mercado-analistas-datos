@@ -4,7 +4,7 @@ Análisis del Mercado Laboral de Analistas de Datos
 
 El crecimiento del análisis de datos ha generado una alta demanda de profesionales especializados en el manejo y análisis de información. Sin embargo, muchas personas que desean ingresar al campo no tienen claridad sobre qué habilidades técnicas son más solicitadas por las empresas.
 
-Este proyecto analiza un dataset de 500 ofertas de empleo para analistas de datos con el objetivo de identificar las herramientas y habilidades más demandadas en el mercado laboral.
+Este proyecto analiza un dataset de 500 ofertas de empleo para analistas de datos con el objetivo de identificar las herramientas y habilidades más demandadas, nivel con mayor promedio salarial y distribucion de los puesto en base a los niveles como analista de datos en el mercado laboral.
 
 Los resultados de este análisis pueden ayudar a estudiantes y profesionales a enfocar su aprendizaje en las habilidades que tienen mayor impacto en el mercado laboral.
 
@@ -12,11 +12,15 @@ Los resultados de este análisis pueden ayudar a estudiantes y profesionales a e
 
 ¿Qué herramientas de análisis de datos son las más solicitadas en las ofertas de empleo para analistas de datos?
 
+¿Qué nivel de analista de datos tiene un mayor promedio salarial?
+
+¿Como se distribuyen los puestos en el mercado laboral de acuerdo al nivel de un analista de datos?
+
 3. Objetivos del Proyecto
 
 Objetivo General
 
-Analizar las ofertas de empleo para identificar las habilidades técnicas más demandadas en el mercado laboral para analistas de datos.
+Analizar las ofertas de empleo para identificar las herramientas técnicas más demandadas en el mercado laboral, el promedio salarial de acuerdo al nivel de un analistas y la distribucion de los puestos de acuerdo al nivel del analista en el mercado laboral.
 
 Objetivos Específicos
 
@@ -24,9 +28,9 @@ Objetivos Específicos
 
 - Analizar la relación entre herramientas y nivel del puesto.
 
-- Analizar la relación entre herramientas y salario.
+- Identificar la distribucion de los puestos de acuerdo al nivel de un analista.
 
-- Identificar tendencias del mercado laboral en análisis de datos.
+- Identificar el nivel con el mayor promedio salarial.
 
 4. Descripción del Dataset
 
@@ -60,11 +64,20 @@ Este proyecto fue desarrollado con diferentes herramientas como:
 
 6. Resultados
 
+¿Qué herramientas de análisis de datos son las más solicitadas en las ofertas de empleo para analistas de datos?
+
 - SQL es la herramienta más demandada
-
 - Excel sigue siendo fundamental
-
 - Python crece con la experiencia.
+  
+¿Qué nivel de analista de datos tiene un mayor promedio salarial?
+
+- El nivel Senior es quien tiene el mayor promedio salarial en comparacion con los niveles Mid y Junior.
+
+¿Como se distribuyen los puestos en el mercado laboral de acuerdo al nivel de un analista de datos?
+
+- Se distribuyen de la siguiente manera: Junior con un 47.8%, Mid con un 31.8% y Senior con un 20.4%, donde podemos
+  concluir que hay una mayor demanda para el puesto de Junior.
 
 7. Visualizaciones
 
