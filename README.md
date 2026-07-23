@@ -8,7 +8,7 @@ Este proyecto analiza un dataset de 500 ofertas de empleo para analistas de dato
 
 Los resultados de este análisis pueden ayudar a estudiantes y profesionales a enfocar su aprendizaje en las habilidades que tienen mayor impacto en el mercado laboral.
 
-2. Problema de Negocio
+2. Problema del Negocio
 
 ¿Qué herramientas de análisis de datos son las más solicitadas en las ofertas de empleo para analistas de datos?
 
