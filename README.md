@@ -93,6 +93,12 @@ Este proyecto fue desarrollado con diferentes herramientas como:
 
 ![Dashboard Analisis de Mercado PowerBi](./imagenes/Dashboard%20Analisis%20de%20Mercado%20PowerBi.png)
 
+![Distribucion de Herramientas](./imagenes/Distribucion_herramientas.png)
+
+![Distribucion Ofertas Laborales Pais](./imagenes/Distribucion_pais.png)
+
+![Tabla Resumen](./imagenes/Tabla_resumen.png)
+
 8. Estructura del proyecto
 
 - Analisis-mercado-analistas-datos: Caperta principal.
