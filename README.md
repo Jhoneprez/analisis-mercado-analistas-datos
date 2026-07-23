@@ -105,8 +105,6 @@ Este proyecto fue desarrollado con diferentes herramientas como:
 
 - Data: Carperta que contiene el Dataset.
 
-- Env: Carpeta del entorno virtual de Python que contiene instalacion de python y sus librerias.
-
 - Excel: Carpeta que contiene archivo de analisis con Excel.
 
 - Imagenes: Carpeta que contiene las imagenes del analisis en python, el EDA y Dashboard en Power Bi.
